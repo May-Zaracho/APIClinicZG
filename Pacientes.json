@@ -1,0 +1,37 @@
+{
+  "pacientes": [
+    {
+      "dni": "12345678",
+      "nombre": "Juan Pérez",
+      "apellido": "Pérez",
+      "edad": 30,
+      "direccion": "Calle Ficticia 123",
+      "telefono": "123456789",
+      "email": "juan.perez@example.com",
+      "estado": "inactivo"
+    },
+    {
+      "estado": "activo"
+    },
+    {
+      "dni": "87654321",
+      "nombre": "Maria",
+      "apellido": "Garcia",
+      "edad": 25,
+      "direccion": "Av. Siempreviva 742",
+      "telefono": "987654321",
+      "email": "maria.garcia@example.com",
+      "estado": "activo"
+    },
+    {
+      "dni": "4544545546",
+      "nombre": "Laia",
+      "apellido": "Insa",
+      "edad": 25,
+      "direccion": "Av. locos 442",
+      "telefono": "9876781",
+      "email": "insalai@example.com",
+      "estado": "activo"
+    }
+  ]
+}

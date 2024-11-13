@@ -1,0 +1,31 @@
+{
+  "medicos": [
+    {
+      "id": "1",
+      "nombre": "Dr. Roberto Sánchez Gómez",
+      "apellido": "González",
+      "especialidad": "Cardiología",
+      "telefono": "555987654",
+      "email": "ana.gonzalez@example.com",
+      "estado": "inactivo"
+    },
+    {
+      "id": "2",
+      "nombre": "Pedro",
+      "apellido": "Martínez",
+      "especialidad": "Neurología",
+      "telefono": "123456789",
+      "email": "pedro.martinez@example.com",
+      "estado": "activo"
+    },
+    {
+      "id": "4",
+      "nombre": "Ceci",
+      "apellido": "Cedola",
+      "especialidad": "Hematologa",
+      "telefono": "12388889",
+      "email": "cecedo@example.com",
+      "estado": "activo"
+    }
+  ]
+}

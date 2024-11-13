@@ -1,0 +1,31 @@
+{
+  "citas": [
+    {
+      "id": "1001",
+      "dniPaciente": "12345678",
+      "idMedico": "1",
+      "fecha": "2024-10-15",
+      "hora": "10:00",
+      "motivo": "Consulta de rutina",
+      "estado": "inactivo"
+    },
+    {
+      "id": "1002",
+      "dniPaciente": "12345678",
+      "idMedico": "1",
+      "fecha": "2024-11-10",
+      "hora": "16:00",
+      "motivo": "Revisión anual",
+      "estado": "activo"
+    },
+    {
+      "id": "1556",
+      "dniPaciente": "87654321",
+      "idMedico": "4",
+      "fecha": "2024-15-11",
+      "hora": "17:00",
+      "motivo": "Chequeo",
+      "estado": "activo"
+    }
+  ]
+}

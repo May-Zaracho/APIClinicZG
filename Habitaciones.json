@@ -1,0 +1,29 @@
+{
+  "habitaciones": [
+    {
+      "id": "2001",
+      "numero": "205",
+      "tipo": "Individual",
+      "disponibilidad": "disponible",
+      "estado": "inactivo"
+    },
+    {
+      "numero": 101,
+      "tipo": "individual",
+      "capacidad": 1,
+      "estado": "activo"
+    },
+    {
+      "numero": 101,
+      "tipo": "individual",
+      "capacidad": 1,
+      "estado": "activo"
+    },
+    {
+      "numero": 104,
+      "tipo": "TRiple",
+      "capacidad": 3,
+      "estado": "activo"
+    }
+  ]
+}
